@@ -22,3 +22,4 @@ This is a ticket!
 
 > To create a ticket, use the [`$newTicket[]`](./newTicket.md) function.
 
+
